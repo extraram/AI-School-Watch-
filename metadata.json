@@ -1,0 +1,7 @@
+{
+  "name": "AI School Watchman",
+  "description": "An AI-powered school surveillance dashboard designed for Class 11-12 students, featuring human detection, face recognition simulation, and a full educational documentation suite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
